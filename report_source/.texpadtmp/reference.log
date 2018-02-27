@@ -1,0 +1,23 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdftex 2017.9.23)  23 JAN 2018 12:19
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**reference.bib
+(./reference.bib
+./reference.bib:24: Undefined control sequence.
+l.24   note =	 {\url
+                    {http://blog.csdn.net/smartempire/article/details/214060...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> reference.bib
+                 
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!
